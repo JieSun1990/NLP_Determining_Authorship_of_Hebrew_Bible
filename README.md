@@ -37,9 +37,7 @@ An example of the spectral and agglomerative clustering below:
 
 Results were compared with the biblical references by scholars:
 ![image](https://user-images.githubusercontent.com/58132970/120744239-203cfc80-c52d-11eb-994e-d4abef9f794a.png)
-
-
-Results were compared with the biblical references by scholars. 
+ 
 # Discussions
 
 ## Strengths
