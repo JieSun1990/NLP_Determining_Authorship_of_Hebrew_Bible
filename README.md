@@ -17,6 +17,9 @@ This project presentation is available here: https://youtu.be/yFZDVMM_TH8
 ## Embeddings
 Skip-gram, LSTM, BERT
 
+![image](https://user-images.githubusercontent.com/58132970/120743939-82e1c880-c52c-11eb-80c5-82046176511e.png)
+
+
 ## Clustering methods
 Spectral clustering, agglomerative clustering
 
