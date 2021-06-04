@@ -12,7 +12,7 @@ We aim to answer the following questions:
 - What type of embedding best captures the style of each Biblical verse? Can an automated approach perform as well as manual methods used in previous research?
 - How many authors wrote each of the first five books of the Bible?
 
-This project presentation is available here: https://youtu.be/yFZDVMM_TH8
+View project presentation here: https://youtu.be/yFZDVMM_TH8
 
 ## Embeddings
 Skip-gram, LSTM, BERT
@@ -25,10 +25,21 @@ An example of the BERT embeddings under tSNE is below:
 ## Clustering methods
 Spectral clustering, agglomerative clustering
 
+An example of the spectral and agglomerative clustering below:
+![image](https://user-images.githubusercontent.com/58132970/120744125-eb30aa00-c52c-11eb-8d3e-9b39ea1c7d54.png)
+
+![image](https://user-images.githubusercontent.com/58132970/120744111-e1a74200-c52c-11eb-9e1e-17da2dfb6ce4.png)
+
+
 ## Model evaluation
 - Supervised label prediction
 - Artificial text generation
 
+Results were compared with the biblical references by scholars:
+![image](https://user-images.githubusercontent.com/58132970/120744239-203cfc80-c52d-11eb-994e-d4abef9f794a.png)
+
+
+Results were compared with the biblical references by scholars. 
 # Discussions
 
 ## Strengths
