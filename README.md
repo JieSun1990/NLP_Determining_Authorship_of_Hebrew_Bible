@@ -12,6 +12,8 @@ We aim to answer the following questions:
 - What type of embedding best captures the style of each Biblical verse? Can an automated approach perform as well as manual methods used in previous research?
 - How many authors wrote each of the first five books of the Bible?
 
+This project presentation is available here: https://youtu.be/yFZDVMM_TH8
+
 ## Embeddings
 Skip-gram, LSTM, BERT
 
